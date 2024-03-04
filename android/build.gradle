@@ -25,7 +25,7 @@ rootProject.allprojects {
         maven { url "https://maven.aliyun.com/repository/jcenter" }
 
         flatDir {
-            dirs project(':flutter_zoom').file('libs')
+            dirs project(':flutter_zoom_meeting').file('libs')
         }
     }
 }

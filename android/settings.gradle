@@ -1,3 +1,3 @@
-rootProject.name = 'flutter_zoom'
-include ':app', ':flutter_zoom'
+rootProject.name = 'flutter_zoom_meeting'
+include ':app', ':flutter_zoom_meeting'
 include ':android/mobilertc'

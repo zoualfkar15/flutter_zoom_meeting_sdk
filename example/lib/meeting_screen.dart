@@ -3,8 +3,8 @@ import 'dart:io';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_zoom/zoom_options.dart';
-import 'package:flutter_zoom/zoom_view.dart';
+import 'package:flutter_zoom_meeting/zoom_options.dart';
+import 'package:flutter_zoom_meeting/zoom_view.dart';
 import 'package:flutter_zoom_example/services/zoom_api.dart';
 import 'package:flutter_zoom_example/zoom/jwt.dart';
 import 'package:flutter_zoom_example/zoom/zoom_functions.dart';

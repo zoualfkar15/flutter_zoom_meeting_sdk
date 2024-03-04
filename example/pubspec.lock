@@ -136,13 +136,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_zoom:
+  flutter_zoom_meeting:
     dependency: "direct main"
     description:
       path: ".."
       relative: true
     source: path
-    version: "0.0.1"
+    version: "1.0.0"
   fuchsia_remote_debug_protocol:
     dependency: transitive
     description: flutter
