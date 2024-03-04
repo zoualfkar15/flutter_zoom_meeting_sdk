@@ -5,7 +5,6 @@ homepage: https://github.com/zoualfkar15/flutter_zoom_meeting_sdk
 repository: https://github.com/zoualfkar15/flutter_zoom_meeting_sdk
 issue_tracker: https://github.com/zoualfkar15/flutter_zoom_meeting_sdk/issues
 
-
 environment:
   sdk: '>=3.2.6 <4.0.0'
   flutter: '>=3.3.0'
