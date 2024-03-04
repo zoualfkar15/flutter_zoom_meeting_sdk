@@ -3,7 +3,7 @@
 # Run `pod lib lint flutter_zoom.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'flutter_zoom'
+  s.name             = 'flutter_zoom_meeting'
   s.version          = '0.0.1'
   s.summary          = 'Flutter Zoom Meeting SDK'
   s.description      = <<-DESC

@@ -9,11 +9,11 @@ public class FlutterZoomPluginService: NSObject, FlutterPlugin, FlutterStreamHan
 
   public static func register(with registrar: FlutterPluginRegistrar) {
     let messenger = registrar.messenger()
-    let channel = FlutterMethodChannel(name: "com.zoualfkar/flutter_zoom", binaryMessenger: messenger)
+    let channel = FlutterMethodChannel(name: "com.zoualfkar/flutter_zoom_meeting", binaryMessenger: messenger)
     let instance = FlutterZoomPluginService()
     registrar.addMethodCallDelegate(instance, channel: channel)
 
-    let eventChannel = FlutterEventChannel(name: "com.zoualfkar/flutter_zoom_event_stream", binaryMessenger: messenger)
+    let eventChannel = FlutterEventChannel(name: "com.zoualfkar/flutter_zoom_meeting_event_stream", binaryMessenger: messenger)
     eventChannel.setStreamHandler(instance)
   }
 

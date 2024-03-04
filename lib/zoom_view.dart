@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:flutter/services.dart';
-import 'package:flutter_zoom/zoom_options.dart';
-import 'package:flutter_zoom/zoom_platform_view.dart';
+import 'package:flutter_zoom_meeting/zoom_options.dart';
+import 'package:flutter_zoom_meeting/zoom_platform_view.dart';
 
 class ZoomView extends ZoomPlatform {
   final MethodChannel channel = const MethodChannel('com.zoualfkar/flutter_zoom');
