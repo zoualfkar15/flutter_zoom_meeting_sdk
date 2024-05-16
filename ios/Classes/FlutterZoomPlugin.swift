@@ -455,7 +455,7 @@ public class FlutterZoomPluginService: NSObject, FlutterPlugin, FlutterStreamHan
                     message = ["MEETING_STATUS_CONNECTING", "Connect to the meeting server"]
                     break
                 case .inMeeting:
-                    message = ["MEETING_STATUS_INMEETING", "Meeting is ready and in process"]
+                    message = ["MEETING_STATUS_INMEETING", "Meeting is ready and in process."]
                     break
                 case .webinarPromote:
                     message = ["MEETING_STATUS_WEBINAR_PROMOTE", "Upgrade the attendees to panelist in webinar"]

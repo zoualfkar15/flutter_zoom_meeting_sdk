@@ -44,8 +44,8 @@ class _MeetingWidgetState extends State<MeetingWidget> {
                   // The basic Material Design action button.
                   return ElevatedButton(
                     style: ElevatedButton.styleFrom(
-                      primary: Colors.blue, // background
-                      onPrimary: Colors.white, // foreground
+                      backgroundColor: Colors.blue, // background
+                      foregroundColor: Colors.white, // foreground
                     ),
                     onPressed: ()  async{
                       {
@@ -79,8 +79,8 @@ class _MeetingWidgetState extends State<MeetingWidget> {
                 builder: (context) {
                   return ElevatedButton(
                     style: ElevatedButton.styleFrom(
-                      primary: Colors.blue, // background
-                      onPrimary: Colors.white, // foreground
+                      backgroundColor: Colors.blue, // background
+                      foregroundColor: Colors.white, // foreground
                     ),
                     onPressed: () async{
 

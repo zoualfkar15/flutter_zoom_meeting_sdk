@@ -1,9 +1,14 @@
 
+
 # Flutter Zoom Meeting SDK
+
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 #### This plugin relies on the [Flutter_Zoom](https://pub.dev/packages/flutter_zoom_sdk) package. It was developed to address issues encountered with it's functionality.
+
+
+#### Developer account on LinkedIn [Link](https://www.linkedin.com/in/zoualfkar-haydar).
 
 
 A Flutter plugin for the Zoom SDK With all features and null safety support.
@@ -25,8 +30,8 @@ A Flutter plugin for the Zoom SDK With all features and null safety support.
   
 *Note*: Updated to new sdk with new features.  
   
-
-``` 
+  
+```  
 
 ## Installation
 
@@ -40,9 +45,9 @@ Android Files :
 flutter_zoom_meeting/android/libs/
 
 Ios Files :  
-flutter_zoom_meeting/android/libs/
+flutter_zoom_meeting/ios/
 
-Google drive [link](https://drive.google.com/file/d/13w9x1gipnG7E2I3RwM3IWCZ9Ff-vEoZH/view?usp=sharing)
+Google drive [link](https://drive.google.com/drive/folders/1JMaXQEiRF8uIn3mUoD22vTD-13hn9kIA?usp=drive_link)
 
 
 ### iOS
