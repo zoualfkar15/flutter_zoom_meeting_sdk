@@ -47,7 +47,7 @@ flutter_zoom_meeting/android/libs/
 Ios Files :  
 flutter_zoom_meeting/ios/
 
-Google drive [link](https://drive.google.com/drive/folders/1JMaXQEiRF8uIn3mUoD22vTD-13hn9kIA?usp=drive_link)
+Google drive [link](https://drive.google.com/file/d/1q0XT-8srCQcBfCHgKK80VsmLd8mSs1_d/view?usp=drivesdk)
 
 
 ### iOS
